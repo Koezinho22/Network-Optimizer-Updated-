@@ -59,3 +59,5 @@ Settings persist to `%AppData%\NetPulseGamer\settings.json`.
 2. Install [Inno Setup 6](https://jrsoftware.org/isdl.php) (free).
 3. Either run `BUILD.bat installer`, or open `installer.iss` in the Inno Setup Compiler and press F9.
 4. Output: `installer\NetPulseGamer-Setup.exe` — a proper multi-language installer with Start Menu shortcut, optional desktop icon, and clean uninstall.
+
+discord: koezyretired
